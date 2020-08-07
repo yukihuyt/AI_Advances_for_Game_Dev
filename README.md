@@ -1,8 +1,8 @@
 # Awesome AI for Game Dev
 
-收藏的爱可可微博翻完了第19页
+收藏的爱可可微博翻完了第25页(下次从第26页开始)
 
-### 强化学习
+### Reinforcement Learning
 
 Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control
 
@@ -12,7 +12,7 @@ Dreamer：世界模型可扩展强化学习
 
 [https://github.com/google-research/dreamer](https://github.com/google-research/dreamer)
 
-### 技术实现
+### Implementation Support
 
 模块化强化学习包：[https://github.com/spitis/mrl](https://github.com/spitis/mrl)
 
@@ -40,7 +40,7 @@ PyTorch 3D机器学习实验库
 
 [https://github.com/huggingface/transformers/pull/3758](https://github.com/huggingface/transformers/pull/3758)
 
-### 计算机图形学
+### Comuper Graphics
 
 神经网络超采样实时渲染 
 
@@ -78,7 +78,7 @@ pytorch implementation 1
 
 [https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
 
-### 文本处理
+### Natural Language Processing
 
 用几行代码实现最先进的对话机器人
 
@@ -92,9 +92,14 @@ pytorch implementation 1
 
 [https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/)
 
-*GPT Dungeon
+*GPT AI Dungeon
+Git repo
+[https://github.com/AIDungeon/AIDungeon](https://github.com/AIDungeon/AIDungeon)
+Massive scale deployment
+[https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
 
-### 音频
+
+### Audio Processing
 
 音频文本描述生成文献列表
 
@@ -120,7 +125,7 @@ OpenAI的“音乐点唱机”：可以用流派、艺术家和歌词作为输�
 
 [https://benanne.github.io/2020/03/24/audio-generation.html](https://benanne.github.io/2020/03/24/audio-generation.html)
 
-### 杂项
+### Misc
 
 动画/漫画相关信号处理
 
