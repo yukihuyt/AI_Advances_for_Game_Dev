@@ -4,13 +4,11 @@
 
 ### Reinforcement Learning
 
-Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control
+[Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709)
+Possible application: 
 
-[https://arxiv.org/abs/2003.06709](https://arxiv.org/abs/2003.06709)
-
-Dreamer：世界模型可扩展强化学习
-
-[https://github.com/google-research/dreamer](https://github.com/google-research/dreamer)
+[Dreamer：世界模型可扩展强化学习](https://github.com/google-research/dreamer)
+Possible application:
 
 ### Implementation Support
 
