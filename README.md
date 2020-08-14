@@ -12,19 +12,13 @@ Possible application:
 
 ### Implementation Support
 
-模块化强化学习包：[https://github.com/spitis/mrl](https://github.com/spitis/mrl)
+[模块化强化学习包](https://github.com/spitis/mrl)
 
-TF2 实现的一些强化学习算法
+[TF2 实现的一些强化学习算法](https://github.com/StepNeverStop/RLs)
 
-[https://github.com/StepNeverStop/RLs](https://github.com/StepNeverStop/RLs)
+[易用的BERT语义相似度计算接口](https://github.com/AndriyMulyar/semantic-text-similarity)
 
-易用的BERT语义相似度计算接口
-
-[https://github.com/AndriyMulyar/semantic-text-similarity](https://github.com/AndriyMulyar/semantic-text-similarity)
-
-ML-Agents Unity Package
-
-[https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/)
+[ML-Agents Unity Package](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/)
 
 Training intelligent adversaries using self-play with ML-Agents
 
