@@ -20,27 +20,19 @@ Possible application:
 
 [ML-Agents Unity Package](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/)
 
-Training intelligent adversaries using self-play with ML-Agents
+[Training intelligent adversaries using self-play with ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/)
 
-[https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/)
 
-PyTorch 3D机器学习实验库
+[PyTorch 3D机器学习实验库](https://github.com/facebookresearch/pytorch3d)
 
-[https://github.com/facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)
 
-文本生成pipeline
-
-[https://github.com/huggingface/transformers/pull/3758](https://github.com/huggingface/transformers/pull/3758)
+[文本生成pipeline](https://github.com/huggingface/transformers/pull/3758)
 
 ### Comuper Graphics
 
-神经网络超采样实时渲染 
+[h神经网络超采样实时渲染 neural-supersampling-for-real-time-rendering](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
 
-[https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
-
-遗传算法辅助画画
-
-[https://github.com/anopara/genetic-drawing](https://github.com/anopara/genetic-drawing)
+[遗传算法辅助画画 genetic-drawing](https://github.com/anopara/genetic-drawing)
 
 实时捕捉生成极简可爱视频
 
