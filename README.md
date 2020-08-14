@@ -5,7 +5,7 @@
 ### Reinforcement Learning
 
 [Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709)
-Possible application: 
+Possible application: 游戏AI智能体训练
 
 [Dreamer：世界模型可扩展强化学习](https://github.com/google-research/dreamer)
 Possible application:
@@ -64,13 +64,10 @@ pytorch implementation 1
 
 ### Natural Language Processing
 
-用几行代码实现最先进的对话机器人
+#### Dialogue Robot
+[用几行代码实现最先进的对话机器人](https://huggingface.co/transformers/model_doc/dialogpt.html)
 
-[https://huggingface.co/transformers/model_doc/dialogpt.html](https://huggingface.co/transformers/model_doc/dialogpt.html)
-
-用GPT-2打造Twitter机器人
-
-[https://github.com/minimaxir/download-tweets-ai-text-gen](https://github.com/minimaxir/download-tweets-ai-text-gen)
+[用GPT-2打造Twitter机器人](https://github.com/minimaxir/download-tweets-ai-text-gen)
 
 *Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research
 
