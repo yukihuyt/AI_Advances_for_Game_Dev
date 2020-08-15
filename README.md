@@ -8,7 +8,6 @@
 Possible application: 游戏AI智能体训练
 
 [Dreamer：世界模型可扩展强化学习](https://github.com/google-research/dreamer)
-Possible application:
 
 ### Implementation Support
 
@@ -34,17 +33,11 @@ Possible application:
 
 [遗传算法辅助画画 genetic-drawing](https://github.com/anopara/genetic-drawing)
 
-实时捕捉生成极简可爱视频
+[实时捕捉生成极简可爱视频](https://glitch.com/edit/#!/tm-wizard)
 
-[https://glitch.com/edit/#!/tm-wizard](https://glitch.com/edit/#!/tm-wizard)
+[valora：命令行生成艺术库](https://github.com/turnage/valora)
 
-valora：命令行生成艺术库
-
-[https://github.com/turnage/valora](https://github.com/turnage/valora)
-
-扫描图片生成5d连续体
-
-[https://www.matthewtancik.com/nerf](https://www.matthewtancik.com/nerf)
+[扫描图片生成5d连续体](https://www.matthewtancik.com/nerf)
 
 pytorch implementation 1
 
