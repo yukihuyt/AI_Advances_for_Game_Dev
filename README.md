@@ -9,23 +9,17 @@ Possible application: 游戏AI智能体训练
 
 [Dreamer：世界模型可扩展强化学习](https://github.com/google-research/dreamer)
 
-### Implementation Support
+[d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy)
 
 [模块化强化学习包](https://github.com/spitis/mrl)
 
 [TF2 实现的一些强化学习算法](https://github.com/StepNeverStop/RLs)
-
-[易用的BERT语义相似度计算接口](https://github.com/AndriyMulyar/semantic-text-similarity)
 
 [ML-Agents Unity Package](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/)
 
 [Training intelligent adversaries using self-play with ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/)
 
 
-[PyTorch 3D机器学习实验库](https://github.com/facebookresearch/pytorch3d)
-
-
-[文本生成pipeline](https://github.com/huggingface/transformers/pull/3758)
 
 ### Comuper Graphics
 
@@ -55,7 +49,13 @@ pytorch implementation 1
 
 [https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
 
+[PyTorch 3D机器学习实验库](https://github.com/facebookresearch/pytorch3d)
+
+
 ### Natural Language Processing
+
+[易用的BERT语义相似度计算接口](https://github.com/AndriyMulyar/semantic-text-similarity)
+[文本生成pipeline](https://github.com/huggingface/transformers/pull/3758)
 
 #### Dialogue Robot
 [用几行代码实现最先进的对话机器人](https://huggingface.co/transformers/model_doc/dialogpt.html)
@@ -101,9 +101,9 @@ OpenAI的“音乐点唱机”：可以用流派、艺术家和歌词作为输�
 
 ### Misc
 
-动画/漫画相关信号处理
+[腾讯自动化测试AI SDK](https://github.com/Tencent/GameAISDK)
 
-[https://github.com/SerialLain3170/AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)
+[动画/漫画相关信号处理AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)
 
 GAN潜关卡设计空间互动演化与探索
 
