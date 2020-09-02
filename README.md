@@ -1,77 +1,75 @@
-# Awesome AI for Game Dev
+# AI advances for Game Dev
 
-收藏的爱可可微博翻完了第25页(下次从第26页开始)
+[^_^]:
+    收藏的爱可可微博翻完了第25页(下次从第26页开始)
 
 ### Reinforcement Learning
+**Possible application: smart object training, real-time learning game AI**
 
 [Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709)
-Possible application: 游戏AI智能体训练
 
-[Dreamer：世界模型可扩展强化学习](https://github.com/google-research/dreamer)
+[Dreamer: Dream to Control - Learning Behaviors by Latent Imagination](https://github.com/google-research/dreamer)
 
 [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy)
 
-[模块化强化学习包](https://github.com/spitis/mrl)
+[Modular Reinforcement Learning Implementations](https://github.com/spitis/mrl)
 
-[TF2 实现的一些强化学习算法](https://github.com/StepNeverStop/RLs)
+[Some Reinforcement Learning Algorithms Implemented with TensorFlow2](https://github.com/StepNeverStop/RLs)
 
 [ML-Agents Unity Package](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/)
 
 [Training intelligent adversaries using self-play with ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/)
 
-
+<br>
 
 ### Comuper Graphics
+**Possible applications: visual content automatic generation, graphic art development assistant**
 
-[h神经网络超采样实时渲染 neural-supersampling-for-real-time-rendering](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
+[Neural supersampling for real-time rendering](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
 
-[遗传算法辅助画画 genetic-drawing](https://github.com/anopara/genetic-drawing)
+[genetic-drawing: drawing with genetic algorithms assistant](https://github.com/anopara/genetic-drawing)
 
-[实时捕捉生成极简可爱视频](https://glitch.com/edit/#!/tm-wizard)
+[webcam-based controller/footage generation](https://glitch.com/edit/#!/tm-wizard)
 
-[valora：命令行生成艺术库](https://github.com/turnage/valora)
+[valora: a graphics library and CLI focused on generative fine art for print](https://github.com/turnage/valora)
 
-[扫描图片生成5d连续体](https://www.matthewtancik.com/nerf)
+[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Generate 5D continous objects by scanning images)](https://www.matthewtancik.com/nerf)
+↑
+[NeRF pytorch implementation v1](https://github.com/krrish94/nerf-pytorch)
 
-pytorch implementation 1
+[NeRF pytorch implementation v2](https://github.com/yenchenlin/nerf-pytorch)
 
-[https://github.com/krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch)
+[SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](http://dancasas.github.io/projects/SoftSMPL/)
 
-2
+[Learning to Shadow Hand-drawn Sketches](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
 
-[https://github.com/yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch)
+[PyTorch 3D Machine Learning Framework](https://github.com/facebookresearch/pytorch3d)
 
-“活生生、肉嘟嘟”：参数化人体非线性软组织动力学数据驱动建模
-
-[http://dancasas.github.io/projects/SoftSMPL/](http://dancasas.github.io/projects/SoftSMPL/)
-
-涂鸦/线稿阴影自动生成
-
-[https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
-
-[PyTorch 3D机器学习实验库](https://github.com/facebookresearch/pytorch3d)
-
+<br>
 
 ### Natural Language Processing
+**Possible applications: automated dialogue/script generation, dialogue robot, understanding users' behaviors/inputs**
 
-[易用的BERT语义相似度计算接口](https://github.com/AndriyMulyar/semantic-text-similarity)
-[文本生成pipeline](https://github.com/huggingface/transformers/pull/3758)
+[API for using BERT to calculate semantic text similarity](https://github.com/AndriyMulyar/semantic-text-similarity)
 
-#### Dialogue Robot
-[用几行代码实现最先进的对话机器人](https://huggingface.co/transformers/model_doc/dialogpt.html)
+[A pipeline for text generation](https://github.com/huggingface/transformers/pull/3758)
 
-[用GPT-2打造Twitter机器人](https://github.com/minimaxir/download-tweets-ai-text-gen)
+[dialogpt: make your own dialogue robot with just several lines of codes](https://huggingface.co/transformers/model_doc/dialogpt.html)
 
-*Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research
+[Build a Twitter bot with GPT-2](https://github.com/minimaxir/download-tweets-ai-text-gen)
 
-[https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/)
+[Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/)
 
-*GPT AI Dungeon
-Git repo
-[https://github.com/AIDungeon/AIDungeon](https://github.com/AIDungeon/AIDungeon)
-Massive scale deployment
-[https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
+[GPT AI Dungeon](https://github.com/AIDungeon/AIDungeon)
+↑
+[How to arrange massive scale deployment of AI Dungeon](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
 
+<br>
+
+<br>
+
+↓↓↓↓↓--still in construction--↓↓↓↓↓
+<br>
 
 ### Audio Processing
 
