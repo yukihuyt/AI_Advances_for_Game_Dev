@@ -1,4 +1,4 @@
-# AI advances for Game Dev
+# AI Advances for Game Dev
 
 [^_^]:
     收藏的爱可可微博翻完了第25页(下次从第26页开始)
