@@ -1,4 +1,5 @@
 # AI Advances for Game Dev
+This is a collection of artificial intelligence and machine learning advances that are possible to be applied in the future game development process.
 
 [^_^]:
     收藏的爱可可微博翻完了第25页(下次从第26页开始)
