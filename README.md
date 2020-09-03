@@ -76,21 +76,14 @@ This is a collection of artificial intelligence and machine learning advances th
 
 ### Audio Processing
 
-音频文本描述生成文献列表
+[A list of papers about audio captioning](https://github.com/audio-captioning/audio-captioning-papers)
 
-[https://github.com/audio-captioning/audio-captioning-papers](https://github.com/audio-captioning/audio-captioning-papers)
+[Music Grid: a simple music grid web app in which you can tap on cells to create music](https://github.com/irshadshalu/music-grid)
 
-音乐格子：好玩的音乐创作/演奏格子
 
-[https://github.com/irshadshalu/music-grid](https://github.com/irshadshalu/music-grid)
+[Realtime_PyAudio_FFT: A simple package to do realtime audio analysis in native Python](https://github.com/tr1pzz/Realtime_PyAudio_FFT)
 
-Python实时音频频谱分析器
-
-[https://github.com/tr1pzz/Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT)
-
-AI小游戏：一起来写首歌吧
-
-[https://magenta.tensorflow.org/make-a-song-together](https://magenta.tensorflow.org/make-a-song-together)
+[Make A Song Together: a small game to build your own music with friends](https://magenta.tensorflow.org/make-a-song-together)
 
 OpenAI的“音乐点唱机”：可以用流派、艺术家和歌词作为输入来生成音乐
 
