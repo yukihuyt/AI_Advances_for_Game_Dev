@@ -69,10 +69,7 @@ This is a collection of artificial intelligence and machine learning advances th
 
 <br>
 
-<br>
 
-↓↓↓↓↓--still in construction--↓↓↓↓↓
-<br>
 
 ### Audio Processing
 
@@ -85,13 +82,19 @@ This is a collection of artificial intelligence and machine learning advances th
 
 [Make A Song Together: a small game to build your own music with friends](https://magenta.tensorflow.org/make-a-song-together)
 
-OpenAI的“音乐点唱机”：可以用流派、艺术家和歌词作为输入来生成音乐
 
-[https://openai.com/blog/jukebox/](https://openai.com/blog/jukebox/)
+[OpenAI Jukebox: a neural net that generates music with inputs of genres, artists and lyrics](https://openai.com/blog/jukebox/)
 
-波形域音乐生成
 
-[https://benanne.github.io/2020/03/24/audio-generation.html](https://benanne.github.io/2020/03/24/audio-generation.html)
+[Generating music in the waveform domain](https://benanne.github.io/2020/03/24/audio-generation.html)
+
+<br>
+
+<br>
+
+↓↓↓↓↓--still in construction--↓↓↓↓↓
+<br>
+
 
 ### Misc
 
