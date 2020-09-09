@@ -1,13 +1,16 @@
 # AI Advances for Game Dev
-This is a collection of artificial intelligence and machine learning advances that are possible to be applied in the future game development process.
+This is a collection of artificial intelligence and machine learning advances that are possible to be applied in the future game development process. Hope this can offer some inspirations for game data scientists, game developers, and maybe just offer some possible resources of imaginations for passionate game players:video_game:.
+
+:sparkles: Keep Updating :sparkles:
 
 <br>
+
 
 [^_^]:
     收藏的爱可可微博翻完了第25页(下次从第26页开始)
 
 ### Reinforcement Learning
-**Possible application: smart object training, real-time learning game AI**
+**Possible application: smart object training, real-time learning game character, new rogue-like strategies**
 
 [Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709)
 
@@ -26,7 +29,7 @@ This is a collection of artificial intelligence and machine learning advances th
 <br>
 
 ### Comuper Graphics
-**Possible applications: visual content automatic generation, graphic art development assistant**
+**Possible applications: sharders and rendering technologies, visual content automatic generation, graphic art development assistant**
 
 [Neural supersampling for real-time rendering](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
 
@@ -102,18 +105,16 @@ This is a collection of artificial intelligence and machine learning advances th
 
 [动画/漫画相关信号处理AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)
 
-GAN潜关卡设计空间互动演化与探索
+[^_^]: GAN潜关卡设计空间互动演化与探索
 
 [https://github.com/schrum2/GameGAN](https://github.com/schrum2/GameGAN)
 
-Procedural Generation and Information Game
+[Procedural Generation and Information Game](https://arxiv.org/abs/2004.01768)
 
-[https://arxiv.org/abs/2004.01768](https://arxiv.org/abs/2004.01768)
-
-可用代数表示的物理学算法集锦
+[^_^]: 可用代数表示的物理学算法集锦
 
 [https://landgreen.github.io/physics/index.html](https://landgreen.github.io/physics/index.html)
 
-开源德州扑克机器人
+[^_^]: 开源德州扑克机器人
 
 [https://github.com/fedden/poker_ai](https://github.com/fedden/poker_ai)
