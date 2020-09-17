@@ -101,9 +101,10 @@ This is a collection of artificial intelligence and machine learning advances th
 
 ### Misc
 
-[腾讯自动化测试AI SDK](https://github.com/Tencent/GameAISDK)
+[^_^]:
+    [腾讯自动化测试AI SDK](https://github.com/Tencent/GameAISDK)
 
-[动画/漫画相关信号处理AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)
+[Awesome Anime Research: collection of papers regarding to signal processing of anime or manga ](https://github.com/SerialLain3170/AwesomeAnimeResearch)
 
 [^_^]: GAN潜关卡设计空间互动演化与探索
 
