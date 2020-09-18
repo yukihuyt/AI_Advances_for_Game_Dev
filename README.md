@@ -40,10 +40,8 @@ This is a collection of artificial intelligence and machine learning advances th
 [valora: a graphics library and CLI focused on generative fine art for print](https://github.com/turnage/valora)
 
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Generate 5D continous objects by scanning images)](https://www.matthewtancik.com/nerf)
-↑
-[NeRF pytorch implementation v1](https://github.com/krrish94/nerf-pytorch)
-
-[NeRF pytorch implementation v2](https://github.com/yenchenlin/nerf-pytorch)
+- [NeRF pytorch implementation v1](https://github.com/krrish94/nerf-pytorch)
+- [NeRF pytorch implementation v2](https://github.com/yenchenlin/nerf-pytorch)
 
 [SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](http://dancasas.github.io/projects/SoftSMPL/)
 
@@ -67,8 +65,7 @@ This is a collection of artificial intelligence and machine learning advances th
 [Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/)
 
 [GPT AI Dungeon](https://github.com/AIDungeon/AIDungeon)
-↑
-[How to arrange massive scale deployment of AI Dungeon](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
+ - [How to arrange massive scale deployment of AI Dungeon](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
 
 <br>
 
