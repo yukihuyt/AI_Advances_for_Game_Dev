@@ -1,5 +1,5 @@
 # AI Advances for Game Dev
-This is a collection of artificial intelligence and machine learning advances that are possible to be applied in the future game development process. Hope this can offer some inspirations for game data scientists, game developers, and maybe just offer some possible resources of imaginations for passionate game players:video_game:.
+This is a collection of artificial intelligence and machine learning advances that are possible to be applied in the future game development process. Hope this can offer some inspirations for game data scientists, game developers, and maybe just spark some imaginations of passionate game players:video_game:.
 
 :sparkles: Keep Updating :sparkles:
 
