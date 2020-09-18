@@ -90,11 +90,6 @@ This is a collection of artificial intelligence and machine learning advances th
 
 <br>
 
-<br>
-
-↓↓↓↓↓--still in construction--↓↓↓↓↓
-<br>
-
 
 ### Misc
 
@@ -104,14 +99,14 @@ This is a collection of artificial intelligence and machine learning advances th
 
 [^_^]: GAN潜关卡设计空间互动演化与探索
 
-[https://github.com/schrum2/GameGAN](https://github.com/schrum2/GameGAN)
+[GameGAN: Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks](https://github.com/schrum2/GameGAN)
 
-[Procedural Generation and Information Game](https://arxiv.org/abs/2004.01768)
+[Generative Forensics: Procedural Generation and Information Games](https://arxiv.org/abs/2004.01768)
 
 [^_^]: 可用代数表示的物理学算法集锦
 
-[https://landgreen.github.io/physics/index.html](https://landgreen.github.io/physics/index.html)
+[Explorable Physics: Algebra based physics with explorable explanations](https://landgreen.github.io/physics/index.html)
 
 [^_^]: 开源德州扑克机器人
 
-[https://github.com/fedden/poker_ai](https://github.com/fedden/poker_ai)
+[Poker AI: an open source implementation of a poker AI using the ideas of Counterfactual Regret](https://github.com/fedden/poker_ai)
