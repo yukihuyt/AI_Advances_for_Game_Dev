@@ -101,8 +101,7 @@ This is a collection of artificial intelligence and machine learning advances th
 
 ### Misc
 
-[^_^]:
-    [腾讯自动化测试AI SDK](https://github.com/Tencent/GameAISDK)
+[(Chinese Language Only) GameAISDK: A framework for UI detection，In-game objects recognition and implementation of some game AI alrorithms (by Tecent Game)](https://github.com/Tencent/GameAISDK)
 
 [Awesome Anime Research: collection of papers regarding to signal processing of anime or manga ](https://github.com/SerialLain3170/AwesomeAnimeResearch)
 
