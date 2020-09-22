@@ -26,6 +26,8 @@ This is a collection of artificial intelligence and machine learning advances th
 
 [Training intelligent adversaries using self-play with ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/)
 
+[MultiGrid: Multi-Agent Gridworld Environment](https://github.com/ArnaudFickinger/gym-multigrid)
+
 <br>
 
 ### Comuper Graphics
