@@ -9,12 +9,6 @@ This is a collection of artificial intelligence and machine learning advances th
 [^_^]:
     收藏的爱可可微博翻完了第25页(下次从第26页开始)
 
-[^_^]:
-    todo1: 添加分类指示符？git repo, article, implemetation...?
-
-[^_^]:
-    todo2: 添加相关的实现代码或论文链接（如果有的话）
-
 ### Reinforcement Learning
 **Possible application: smart object training, real-time learning game character, new rogue-like strategies**
 
