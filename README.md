@@ -1,7 +1,14 @@
 # AI Advances for Game Dev
 This is a collection of artificial intelligence and machine learning advances that are possible to be applied in the future game development process. Hope this can offer some inspirations for game data scientists, game developers, and maybe just spark some imaginations of passionate game players:video_game:.
 
+<br>
+
 :sparkles: Keep Updating :sparkles:
+
+Todo: 
+- Assign tags `Code`, `Paper`, `Article` to indicate the format of the linked contents;
+- More papers and codes coming!
+- More of my thoughts on possible applications...
 
 <br>
 
@@ -12,21 +19,22 @@ This is a collection of artificial intelligence and machine learning advances th
 ### Reinforcement Learning
 **Possible application: smart object training, real-time learning game character, new rogue-like strategies**
 
-[Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709)
+[Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709) `Paper`
 
-[Dreamer: Dream to Control - Learning Behaviors by Latent Imagination](https://github.com/google-research/dreamer)
+[Dreamer: Learning Behaviors by Latent Imagination](https://github.com/google-research/dreamer) `Codes`
+[Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf)`Paper`
 
-[d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy)
+[d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy) `Codes`
 
-[Modular Reinforcement Learning Implementations](https://github.com/spitis/mrl)
+[mrl: Modular Reinforcement Learning Implementations](https://github.com/spitis/mrl) `Codes`
 
-[Some Reinforcement Learning Algorithms Implemented with TensorFlow2](https://github.com/StepNeverStop/RLs)
+[Some Reinforcement Learning Algorithms Implemented with TensorFlow2](https://github.com/StepNeverStop/RLs) `Codes`
 
-[ML-Agents Unity Package](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/)
+[Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) `Codes`
+[Announcing ML-Agents Unity Package v1.0!](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/) `Article`
+[Training intelligent adversaries using self-play with Unity ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/) `Article`
 
-[Training intelligent adversaries using self-play with ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/)
-
-[MultiGrid: Multi-Agent Gridworld Environment](https://github.com/ArnaudFickinger/gym-multigrid)
+[MultiGrid: Multi-Agent Gridworld Environment](https://github.com/ArnaudFickinger/gym-multigrid) `Codes`
 
 <br>
 
