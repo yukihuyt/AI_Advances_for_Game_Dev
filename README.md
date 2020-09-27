@@ -30,8 +30,8 @@ Todo:
 
 [Some Reinforcement Learning Algorithms Implemented with TensorFlow2](https://github.com/StepNeverStop/RLs) `Codes`
 
-[Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) `Codes`
-[Announcing ML-Agents Unity Package v1.0!](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/) `Article`
+[Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) `Codes` <br>
+[Announcing ML-Agents Unity Package v1.0!](https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/) `Article` <br>
 [Training intelligent adversaries using self-play with Unity ML-Agents](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/) `Article`
 
 [MultiGrid: Multi-Agent Gridworld Environment](https://github.com/ArnaudFickinger/gym-multigrid) `Codes`
