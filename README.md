@@ -21,7 +21,7 @@ Todo:
 
 [Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709) `Paper`
 
-[Dreamer: Learning Behaviors by Latent Imagination](https://github.com/google-research/dreamer) `Codes`
+[Dreamer: Learning Behaviors by Latent Imagination](https://github.com/google-research/dreamer) `Codes` <br>
 [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf)`Paper`
 
 [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy) `Codes`
