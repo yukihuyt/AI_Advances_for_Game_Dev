@@ -41,23 +41,28 @@ Todo:
 ### Comuper Graphics
 **Possible applications: sharders and rendering technologies, visual content automatic generation, graphic art development assistant**
 
-[Neural supersampling for real-time rendering](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
+[Neural supersampling for real-time rendering](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/) `Paper` <br>
+[Introducing neural supersampling for real-time rendering](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) `Article`
 
-[genetic-drawing: drawing with genetic algorithms assistant](https://github.com/anopara/genetic-drawing)
+[genetic-drawing: drawing with genetic algorithms assistant](https://github.com/anopara/genetic-drawing) `Codes` 
 
-[webcam-based controller/footage generation](https://glitch.com/edit/#!/tm-wizard)
+[webcam-based controller/footage generation](https://glitch.com/edit/#!/tm-wizard) `Article`
 
-[valora: a graphics library and CLI focused on generative fine art for print](https://github.com/turnage/valora)
+[valora: a graphics library and CLI focused on generative fine art for print](https://github.com/turnage/valora) `Codes`
 
-[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Generate 5D continous objects by scanning images)](https://www.matthewtancik.com/nerf)
-- [NeRF pytorch implementation v1](https://github.com/krrish94/nerf-pytorch)
-- [NeRF pytorch implementation v2](https://github.com/yenchenlin/nerf-pytorch)
+[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Generate 5D continous objects by scanning images)](https://www.matthewtancik.com/nerf) `Article` <br>
+[NeRF paper](https://arxiv.org/abs/2003.08934) `Paper` <br>
+[NeRF pytorch implementation v1](https://github.com/krrish94/nerf-pytorch) `Codes` <br>
+[NeRF pytorch implementation v2](https://github.com/yenchenlin/nerf-pytorch) `Codes` <br>
 
-[SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](http://dancasas.github.io/projects/SoftSMPL/)
+[SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](http://dancasas.github.io/projects/SoftSMPL/) `Article` <br>
+[SoftSMPL paper](https://arxiv.org/abs/2004.00326) `Paper`
 
-[Learning to Shadow Hand-drawn Sketches](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
+[Learning to Shadow Hand-drawn Sketches](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/) `Article` <br>
+[Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) `Paper` <br>
+[Official Implementation of "Learning to Shadow Hand-drawn Sketches"](https://github.com/qyzdao/ShadeSketch) `Codes`
 
-[PyTorch 3D Machine Learning Framework](https://github.com/facebookresearch/pytorch3d)
+[PyTorch 3D Machine Learning Framework](https://github.com/facebookresearch/pytorch3d) `Codes`
 
 <br>
 
