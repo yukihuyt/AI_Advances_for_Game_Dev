@@ -69,11 +69,14 @@ Todo:
 ### Natural Language Processing
 **Possible applications: automated dialogue/script generation, dialogue robot, understanding users' behaviors/inputs**
 
-[API for using BERT to calculate semantic text similarity](https://github.com/AndriyMulyar/semantic-text-similarity)
+[API for using BERT to calculate semantic text similarity](https://github.com/AndriyMulyar/semantic-text-similarity) `Codes`
 
-[A pipeline for text generation](https://github.com/huggingface/transformers/pull/3758)
+[A pipeline for text generation](https://github.com/huggingface/transformers/pull/3758) `Codes`
 
-[dialogpt: make your own dialogue robot with just several lines of codes](https://huggingface.co/transformers/model_doc/dialogpt.html)
+[dialogpt: make your own dialogue robot with just several lines of codes](https://huggingface.co/transformers/model_doc/dialogpt.html) `Article` <br>
+[DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) `Paper` <br>
+[A State-of-the-Art Large-scale Pretrained Response Generation Model (DialoGPT)](https://github.com/microsoft/DialoGPT) `Codes`
+
 
 [Build a Twitter bot with GPT-2](https://github.com/minimaxir/download-tweets-ai-text-gen)
 
