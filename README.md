@@ -78,12 +78,13 @@ Todo:
 [A State-of-the-Art Large-scale Pretrained Response Generation Model (DialoGPT)](https://github.com/microsoft/DialoGPT) `Codes`
 
 
-[Build a Twitter bot with GPT-2](https://github.com/minimaxir/download-tweets-ai-text-gen)
+[Build a Twitter bot with GPT-2](https://github.com/minimaxir/download-tweets-ai-text-gen) `Codes`
 
-[Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/)
+[Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/) `Article` <br>
+[Learning to Speak and Act in a Fantasy Text Adventure Game](https://research.fb.com/publications/learning-to-speak-and-act-in-a-fantasy-text-adventure-game/) `Paper`
 
-[GPT AI Dungeon](https://github.com/AIDungeon/AIDungeon)
- - [How to arrange massive scale deployment of AI Dungeon](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
+[GPT AI Dungeon](https://github.com/AIDungeon/AIDungeon) `Code` <br>
+[How to arrange massive scale deployment of AI Dungeon](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9) `Article`
 
 <br>
 
