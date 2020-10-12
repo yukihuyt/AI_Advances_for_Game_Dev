@@ -83,7 +83,7 @@ Todo:
 [Facebook Light: A Multiplayer Text Adventure Game for Dialogue Research](https://ai.facebook.com/blog/introducing-light-a-multiplayer-text-adventure-game-for-dialogue-research/) `Article` <br>
 [Learning to Speak and Act in a Fantasy Text Adventure Game](https://research.fb.com/publications/learning-to-speak-and-act-in-a-fantasy-text-adventure-game/) `Paper`
 
-[GPT AI Dungeon](https://github.com/AIDungeon/AIDungeon) `Code` <br>
+[GPT AI Dungeon](https://github.com/AIDungeon/AIDungeon) `Codes` <br>
 [How to arrange massive scale deployment of AI Dungeon](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9) `Article`
 
 <br>
@@ -92,20 +92,22 @@ Todo:
 
 ### Audio Processing
 
-[A list of papers about audio captioning](https://github.com/audio-captioning/audio-captioning-papers)
+[A list of papers about audio captioning](https://github.com/audio-captioning/audio-captioning-papers) `Paper`
 
-[Music Grid: a simple music grid web app in which you can tap on cells to create music](https://github.com/irshadshalu/music-grid)
-
-
-[Realtime_PyAudio_FFT: A simple package to do realtime audio analysis in native Python](https://github.com/tr1pzz/Realtime_PyAudio_FFT)
-
-[Make A Song Together: a small game to build your own music with friends](https://magenta.tensorflow.org/make-a-song-together)
+[Music Grid: a simple music grid web app in which you can tap on cells to create music](https://github.com/irshadshalu/music-grid) `Codes`
 
 
-[OpenAI Jukebox: a neural net that generates music with inputs of genres, artists and lyrics](https://openai.com/blog/jukebox/)
+[Realtime_PyAudio_FFT: A simple package to do realtime audio analysis in native Python](https://github.com/tr1pzz/Realtime_PyAudio_FFT) `Codes`
+
+[Make A Song Together: a small game to build your own music with friends](https://magenta.tensorflow.org/make-a-song-together) `Article`
 
 
-[Generating music in the waveform domain](https://benanne.github.io/2020/03/24/audio-generation.html)
+[OpenAI Jukebox: a neural net that generates music with inputs of genres, artists and lyrics](https://openai.com/blog/jukebox/) `Article` <br>
+[Jukebox](https://github.com/openai/jukebox/) `Codes` <br>
+[Jukebox: A Generative Model for Music](https://arxiv.org/abs/2005.00341) `Paper`
+
+
+[Generating music in the waveform domain](https://benanne.github.io/2020/03/24/audio-generation.html) `Paper(online interactive)`
 
 <br>
 
