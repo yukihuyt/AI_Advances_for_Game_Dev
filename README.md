@@ -6,9 +6,9 @@ This is a collection of artificial intelligence and machine learning advances th
 :sparkles: Keep Updating :sparkles:
 
 Todo: 
-- Assign tags `Code`, `Paper`, `Article` to indicate the format of the linked contents;
-- More papers and codes coming!
-- More of my thoughts on possible applications...
+- [x] Assign tags `Code`, `Paper`, `Article` to indicate the format of the linked contents;
+- [] More papers and codes coming!
+- [] More of my thoughts on possible applications...
 
 <br>
 
@@ -92,7 +92,7 @@ Todo:
 
 ### Audio Processing
 
-[A list of papers about audio captioning](https://github.com/audio-captioning/audio-captioning-papers) `Paper`
+[A list of papers about audio captioning](https://github.com/audio-captioning/audio-captioning-papers) `PaperS`
 
 [Music Grid: a simple music grid web app in which you can tap on cells to create music](https://github.com/irshadshalu/music-grid) `Codes`
 
@@ -114,20 +114,21 @@ Todo:
 
 ### Misc
 
-[(Chinese Language Only) GameAISDK: A framework for UI detection，In-game objects recognition and implementation of some game AI alrorithms (by Tecent Game)](https://github.com/Tencent/GameAISDK)
+[(Chinese Language Only) GameAISDK: A framework for UI detection，In-game objects recognition and implementation of some game AI alrorithms (by Tecent Game)](https://github.com/Tencent/GameAISDK) `Codes`
 
-[Awesome Anime Research: collection of papers regarding to signal processing of anime or manga ](https://github.com/SerialLain3170/AwesomeAnimeResearch)
+[Awesome Anime Research: collection of papers regarding to signal processing of anime or manga ](https://github.com/SerialLain3170/AwesomeAnimeResearch) `PaperS`
 
 [^_^]: GAN潜关卡设计空间互动演化与探索
 
-[GameGAN: Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks](https://github.com/schrum2/GameGAN)
+[GameGAN: Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks](https://github.com/schrum2/GameGAN) `Codes`
 
-[Generative Forensics: Procedural Generation and Information Games](https://arxiv.org/abs/2004.01768)
+[Generative Forensics: Procedural Generation and Information Games](https://arxiv.org/abs/2004.01768) `Paper`
 
 [^_^]: 可用代数表示的物理学算法集锦
 
-[Explorable Physics: Algebra based physics with explorable explanations](https://landgreen.github.io/physics/index.html)
+[Explorable Physics: Algebra based physics with explorable explanations](https://landgreen.github.io/physics/index.html) `Article` <br>
+[Explorable Physics](https://github.com/landgreen/physics) `Codes`
 
 [^_^]: 开源德州扑克机器人
 
-[Poker AI: an open source implementation of a poker AI using the ideas of Counterfactual Regret](https://github.com/fedden/poker_ai)
+[Poker AI: an open source implementation of a poker AI using the ideas of Counterfactual Regret](https://github.com/fedden/poker_ai) `Codes`
