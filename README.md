@@ -7,8 +7,8 @@ This is a collection of artificial intelligence and machine learning advances th
 
 Todo: 
 - [x] Assign tags `Code`, `Paper`, `Article` to indicate the format of the linked contents;
-- [] More papers and codes coming!
-- [] More of my thoughts on possible applications...
+- [ ] More papers and codes coming!
+- [ ] More of my thoughts on possible applications...
 
 <br>
 
